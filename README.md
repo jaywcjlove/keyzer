@@ -8,7 +8,7 @@
   <br />
   <img src="./assets/logo.png" width="160" height="160">
   <h1>
-    Keyzer
+    Keyzer - Password Manager
   </h1>
   <!--rehype:style=border: 0;-->
   <p>
