@@ -29,6 +29,8 @@
 
 ![](./assets/screenshots-3.jpg)
 
+![](./assets/screenshots-4.jpg)
+
 Keyzer is a native app designed to securely store all your passwords and other private information.
 In daily life, we all have sensitive data—such as credit card details, bank accounts, and passwords—that we want to keep private.
 Keyzer encrypts and saves this information into a portable Keyzer file, ensuring your data stays secure while remaining easy to use.
