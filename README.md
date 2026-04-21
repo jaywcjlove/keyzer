@@ -17,7 +17,7 @@
     <a href="./CHANGELOG.md">Changelog</a>
   </p>
   <p>
-    <a target="_blank" href="https://apps.apple.com/app/Keyzer/6500434773" title="Keyzer for macOS">
+    <a target="_blank" href="https://jaywcjlove.github.io/maslink/?id=6500434773" title="Keyzer for macOS">
       <img alt="Keyzer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
     </a>
   </p>
