@@ -10,6 +10,12 @@ Changelog
 <img alt="Keyzer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.2.0](https://github.com/jaywcjlove/keyzer/releases/tag/v1.2.0)
+
+1. feat: Support importing CSV password files from Apple and Firefox, fix list selection issues
+2. feat: Add localization for German, French, Italian, Japanese, Korean, Russian and Traditional Chinese
+3. refactor: Complete architecture refactoring, optimization and migration
+
 ## [v1.1.0](https://github.com/jaywcjlove/keyzer/releases/tag/v1.1.0)
 
 1. style: Optimize window styling issues.
