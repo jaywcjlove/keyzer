@@ -10,6 +10,11 @@
 <img alt="Keyzer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/keyzer/releases/tag/v1.3.0)
+
+1. feat: 更新应用图标
+2. fix: 避免在 @Entry 环境下重新分配 AppDB 默认实例
+
 ## [v1.2.0](https://github.com/jaywcjlove/keyzer/releases/tag/v1.2.0)
 
 1. feat: 支持导入苹果、火狐密码CSV文件，修复列表选择问题

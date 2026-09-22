@@ -10,6 +10,11 @@ Changelog
 <img alt="Keyzer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.3.0](https://github.com/jaywcjlove/keyzer/releases/tag/v1.3.0)
+
+1. feat: update app icon. 
+2. fix: avoid reallocating AppDB default for @Entry environment 
+
 ## [v1.2.0](https://github.com/jaywcjlove/keyzer/releases/tag/v1.2.0)
 
 1. feat: Support importing CSV password files from Apple and Firefox, fix list selection issues
