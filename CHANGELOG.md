@@ -10,6 +10,20 @@ Changelog
 <img alt="Keyzer AppStore" src="https://jaywcjlove.github.io/sb/download/macos.svg" height="51">
 </a>
 
+## [v1.4.0](https://github.com/jaywcjlove/keyzer/releases/tag/v1.4.0)
+
+1. feat: add confirmation prompt before deleting password field.
+2. feat: use website favicon as password icon.
+3. feat: show the password icon on the delete confirmation
+4. feat: show a notice when a copy succeeds
+5. feat: import MacPass entries into a new password file
+6. feat: import passwords from MacPass XML
+7. feat: set a password icon from the website favicon
+8. feat: add custom images for password icons
+9. feat: mark copied passwords with nspasteboard concealed type
+10. fix: confirm deletion with OK instead of Cancel
+11. fix: show a spinner while the password list loads
+
 ## [v1.3.0](https://github.com/jaywcjlove/keyzer/releases/tag/v1.3.0)
 
 1. feat: update app icon. 
